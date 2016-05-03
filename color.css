@@ -1,0 +1,31 @@
+@font-face{
+	font-family: "Emblema One";
+	src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff");
+}
+
+body {
+
+	font-family: arial;
+	background-color: #E3E9F9;
+}
+
+p#green{
+	color: green;
+	font-family: 'Oswald', sans-serif;
+}
+
+p#blue{
+	color: blue;
+}
+
+p#purple{
+	color: purple;
+}
+
+p#red{
+	color: red;
+}
+
+h1{
+	color:#E97229;
+}

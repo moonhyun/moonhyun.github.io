@@ -1,0 +1,17 @@
+p.p1{
+	padding: 10%; /*間距*/
+	line-height: 40px; /*字上下距離*/
+	padding-left: 20%;
+	text-align: center; /*字體置中*/
+	background-color: #6BC5D6;
+	border-color: white;
+	border-width: 1px;
+	border-style: dashed; /*框線*/
+	margin-left: 20px;
+	margin-bottom: 20px;
+	/*margin: auto; 自動置中*/
+	width: 20%;
+	background-image: url(images/magnifying-glass.png);
+	background-position: top left; 
+	background-repeat: repeat-x;
+}
